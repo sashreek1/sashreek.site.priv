@@ -60,7 +60,7 @@ date_format = "Jan 2006"
      
   Responsibilities include:
   
-  * Picked up garbage from the street every alternate day
+  * Picked up waste from the street every alternate day
   * Segregated the collected waste
   * Managed inventory of tools
   """
