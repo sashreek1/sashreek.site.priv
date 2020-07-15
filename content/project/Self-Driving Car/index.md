@@ -5,7 +5,8 @@ tags:
 - Haar Cascade
 - OpneCV
 - Python
-date: "2016-04-27T00:00:00Z"
+- Raspberry Pi
+date: "2020-05-10T00:00:04Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +33,7 @@ url_video: ""
 slides: example
 ---
 
-Recently there has been all this talk about self-driving cars and how helpful they can be, apart from there has also been major talk about how difficult it can be to build one. So I decided to build my own.
+Recently there has been all this talk about self-driving cars and how helpful they can be, apart from this there has also been major talk about how difficult it can be to build one. So I decided to build my own.
 
 ## Parts
 To build this I have used :
@@ -55,7 +56,7 @@ the rudimentary distance sensor provides highly reliable distance data which can
   
 Along with a functional obstacle detection system the car also has an **object detection system**. The car's onboard camera system provides live data about recognised road signs such as the "stop sign" or the "school ahead sign". The camera also tries to detect the presence of a traffic signal and obey the traffic lights.  
   
-While the straight forward logic of running these processes together would be to run these processes in individual threads simultaneously, this is impractical. The Raspberry Pi has no GPU and hence performs complex image recognition on an ARM based CPU. Hence running the two processes simultaneously would slow down the reaction time of the car. To over come this, I have queued these processes and also provided a time limit for both the process.
+While the straight forward logic of running these processes together would be to run these processes in individual threads simultaneously, this is impractical. The Raspberry Pi has very slow GPU and hence performs complex image recognition on an ARM based CPU. Hence running the two processes simultaneously would slow down the reaction time of the car. To over come this, I have queued these processes and also provided a time limit for both the process.
 
 ## Code 
 You can view all the required code for this project in the following GitHub link

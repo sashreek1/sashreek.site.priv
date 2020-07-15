@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bangalore"
   date_start = "2019-04-01"
-  date_end = "2020-12-10"
+  date_end = "2020-01-10"
   description = """
   Part of the founding members
      

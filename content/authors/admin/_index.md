@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A high school student who interested in IoT, cloud technology and robotics.
+bio: A high school student who is interested in IoT, cloud technology and robotics.
 
 interests:
 - Internet of Things
