@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.pes.edu/"
   title = "PES Code wars"
   url = ""
-  certificate_url = "/img/certs/pes_code_wars.jpg.jpg"
+  certificate_url = "/img/certs/pes_code_wars.jpg"
   date_start = "2019-08-24"
   description = ""
 
