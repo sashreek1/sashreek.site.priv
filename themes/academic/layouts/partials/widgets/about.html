@@ -95,8 +95,10 @@
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
+            {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
+            {{- with .url -}}</a>{{- end -}}
             </div>
           </li>
           {{ end }}

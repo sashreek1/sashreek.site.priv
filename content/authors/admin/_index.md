@@ -36,9 +36,11 @@ education:
   - course: Python Bootcamp (2019 version)
     institution: Udemy
     year: 2019
+    url: https://www.udemy.com/certificate/UC-7ZX5YVV4/
   - course: Mastering Data Structures & Algorithms using C and C++
     institution: Udemy
     year: 2019
+    url: https://www.udemy.com/certificate/UC-NZA1E45E/
   - course: AISSE (class 10)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2018
