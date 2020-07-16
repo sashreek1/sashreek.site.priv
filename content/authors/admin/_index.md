@@ -29,11 +29,10 @@ interests:
 
 
 education:
+  courses:
   - course: AISSCE (class 12)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2021
-  
-  courses:
   - course: AISSE (class 10)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2018
