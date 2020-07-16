@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.udemy.com/certificate/UC-7ZX5YVV4/"
   date_start = "2019-01-01"
   date_end = "2019-02-01"
-  description = ""
+  description = "Learnt the basics of python"
   
 [[item]]
   organization = "Hewlett Packard Enterprise"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "/img/certs/cbse_exhib_2019.jpg"
   date_start = "2019-11-22"
-  description = ""
+  description = "One of the winners at the regional level science exhibition for my project on Magneto Caloric Hyperthermia for cancer treatment"
 
 [[item]]
   organization = "CBSE (Central Board of Secondary Education)"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "/img/certs/nationals_2017.jpg"
   date_start = "2017-12-28"
-  description = ""
+  description = "One of the winners at the regional level science exhibition for my autonomous car project"
 
 [[item]]
   organization = "PSBB Chennai"
@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "/img/certs/gotta_launch.jpg"
   date_start = "2019-06-21"
-  description = ""
+  description = "Came second in a competition to design water propelled rockets optimized for maximum height, distance and air time."
 
 [[item]]
   organization = "PES University"
@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "/img/certs/intellisense.jpg"
   date_start = "2019-08-24"
-  description = "A talk about Artificial Intelligence"
+  description = "Participated in a talk about Artificial Intelligence"
   
 [[item]]
   organization = "PES University"
@@ -108,7 +108,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "/img/certs/GCI_Leaderboard.png"
   date_start = "2019-12-28"
-  description = ""
+  description = "Top 20 worldwide in number of tasks completed for the Fedora open source project"
 
 [[item]]
   organization = "Internshala"
@@ -117,7 +117,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://internshala.com/student/certificate/34657018/E6093E5F-925D-9225-1B0A-911D48D7EB79"
   date_start = "2020-03-09"
-  description = ""
+  description = "Hired at IoTEDU"
   
 [[item]]
   organization = "Bangalore Mirror"

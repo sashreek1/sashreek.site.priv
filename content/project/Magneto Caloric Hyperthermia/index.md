@@ -1,6 +1,6 @@
 ---
 title: Magneto Caloric Hyperthermia
-summary: An prototype of a supplememnt to present cancer treatments
+summary: A prototype of a supplememnt to present cancer treatments
 tags:
 - Magneto Caloric effect
 - Python
