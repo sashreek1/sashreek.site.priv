@@ -23,19 +23,21 @@ bio: A high school student who is interested in IoT, cloud technology and roboti
 interests:
 - Internet of Things
 - Robotics
-- Unmanned Ariel Vehicals
+- Unmanned Aerial Vehicals
 - Astronomy
 - Rovers
 
 
 education:
+  - course: AISSCE (class 12)
+    institution: PSBB Learning Leaderhip Academy, Bangalore
+    year: 2021
+  
   courses:
   - course: AISSE (class 10)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2018
-  - course: AISSCE (class 12)
-    institution: PSBB Learning Leaderhip Academy, Bangalore
-    year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
