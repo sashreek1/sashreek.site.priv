@@ -33,6 +33,12 @@ education:
   - course: AISSCE (class 12)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2021
+  - course: Python Bootcamp (2019 version)
+    institution: Udemy
+    year: 2019
+  - course: Mastering Data Structures & Algorithms using C and C++
+    institution: Udemy
+    year: 2019
   - course: AISSE (class 10)
     institution: PSBB Learning Leaderhip Academy, Bangalore
     year: 2018
