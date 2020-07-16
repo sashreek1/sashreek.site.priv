@@ -74,4 +74,4 @@ email: ""
 # - Visitors
 ---
 
-I am a high school student who has experimented with IoT, cloud technology and robotics. I am also a member of the Fedora join SIG and contribute occasionally to Fedora Open Source by writitng python scripts and documentation. Passionate about astronomy, autonomy and everything in between, I wish to combine these interests to build autonomous fleet systems that help setup life support systems on Mars and beyond.
+I am a high school student who has experimented with IoT, cloud technology and robotics. I am also a member of the "Fedora Join SIG" and contribute occasionally to Fedora Open Source, writitng python scripts and documentation. Passionate about astronomy, autonomy and everything in between, I wish to combine these interests to build autonomous fleet systems that help setup life support on Mars and beyond.
