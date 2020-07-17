@@ -11,21 +11,16 @@
   </p>
   {{ end }}
 
-  <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
-  </p>
+ <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-  {{/* Display copyright license. */}}
-  {{ partial "site_footer_license" . }}
-
-  <p class="powered-by">
-    Powered by the
+    Made with <a href="https://github.com/sashreek1" target="_blank" rel="noopener"><i class="fas fa-code-branch"></i> GitHub</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener"><i class="fa fa-cloud"></i> Netlify</a>  and the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-    {{ if not (in (slice "docs" "updates") .Type) }}
+    {{ if ne .Type "docs" }}
     <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
+      <a href="#" id="back_to_top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>
