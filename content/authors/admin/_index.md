@@ -43,7 +43,7 @@ education:
     url: https://www.udemy.com/certificate/UC-NZA1E45E/
   - course: AISSE (class 10)
     institution: PSBB Learning Leaderhip Academy, Bangalore
-    year: 2018
+    year: 2019
 
 
 # Social/Academic Networking
