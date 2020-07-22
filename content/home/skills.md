@@ -18,7 +18,7 @@ subtitle = ""
   icon = "raspberrypi"
   icon_pack = "custom"
   name = "Raspberry Pi"
-  description = "98%"
+  description = "95%"
   
 [[feature]]
   icon = "python"
@@ -42,13 +42,13 @@ subtitle = ""
   icon = "git"
   icon_pack = "custom"
   name = "Git"
-  description = "100%"
+  description = "90%"
   
 [[feature]]
   icon = "opencv"
   icon_pack = "custom"
   name = "Computer Vision"
-  description = "90%"
+  description = "85%"
   
 [[feature]]
   icon = "videoedit"
