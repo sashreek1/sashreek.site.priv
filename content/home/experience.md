@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Founder"
+  company = "CFAll"
+  company_url = "https://www.cfall.co.in/"
+  location = "Bangalore"
+  date_start = "2020-07-24"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Leading a group of volunteers 
+  * Collaborating with corporates/Individuals to collect PCs
+  * Contacting registered NGOs for support
+  * Identifying deserving candidates
+  """
+
+
+[[experience]]
   title = "Intern"
   company = "IoTEDU"
   company_url = "https://www.iot4beginners.com/"
