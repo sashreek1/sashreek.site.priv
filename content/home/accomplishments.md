@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   title = "Rocket Design Contest"
   url = ""
   certificate_url = "/img/certs/gotta_launch.jpg"
-  date_start = "2019-06-21"
+  date_start = "2017-06-21"
   description = "Came second in a competition to design water propelled rockets optimized for maximum height, distance and air time."
   
 [[item]]
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   title = "Science Quiz"
   url = ""
   certificate_url = "/img/certs/sci_quiz.jpg"
-  date_start = "2017-12-28"
+  date_start = "2017-10-28"
   description = "An inter-school science quiz"
 
 [[item]]
