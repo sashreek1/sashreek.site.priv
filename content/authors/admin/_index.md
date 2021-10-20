@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A high school student who is interested in IoT, cloud technology and robotics.
+bio: A tech enthusiast who is interested in IoT, cloud technology and robotics.
 
 interests:
 - Internet of Things
@@ -83,4 +83,4 @@ email: ""
 # - Visitors
 ---
 
-I am a high school student who has experimented with IoT, cloud technology and robotics. I am also a member of the "Fedora Join SIG" and contribute occasionally to Fedora Open Source, writing python scripts and documentation. Passionate about astronomy, autonomy and everything in between, I wish to combine these interests to build autonomous fleet systems that help setup life support on Mars and beyond.
+I am a tech enthusiast who has experimented with IoT, cloud technology and robotics. I am also a member of the "Fedora Join SIG" and contribute occasionally to Fedora Open Source, writing python scripts and documentation. Passionate about astronomy, autonomy and everything in between, I wish to combine these interests to build autonomous fleet systems that help setup life support on Mars and beyond.
