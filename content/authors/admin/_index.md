@@ -14,7 +14,7 @@ role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: PSBB Learning Leadership Academy
+- name: University of Michigan - Ann Arbor
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
